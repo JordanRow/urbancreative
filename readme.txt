@@ -5,6 +5,7 @@ Tried setting it up as a completely custom theme, i'll add a picture of how it l
 Desktop: https://take.ms/AkNzuS
 Tablet: https://take.ms/KE8pT
 Mobile: https://take.ms/RmVgC
+Mobile Menu: https://take.ms/eK8AV (added a cross to close)
 
 Using:
 - Bootstrap Version 4.4.1
